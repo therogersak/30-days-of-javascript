@@ -9,6 +9,12 @@ In this project we build speech to text & text to speech project
 Speech To Text Convter - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/speech_to_text_convter)
 
 
+### 2. Password Genrator
+
+In this project we build password genrator & copy feature
+
+Speech To Text Convter - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/password_genrator)
+
 
 
 ## License
