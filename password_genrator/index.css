@@ -1,0 +1,69 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic);
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Lato;
+  font-weight: bold;
+  background: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  width: 100%;
+  max-width: 550px;
+  background: #000;
+  height: 350px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.hero #password {
+  color: #fff;
+  width: 100%;
+  max-width: 350px;
+  height: 40px;
+  border-radius: 5px;
+  padding-left: 0.8rem;
+  font-family: Lato;
+  font-weight: bold;
+  border-radius: 50px;
+  background: #1e1e1e;
+  box-shadow: 20px 20px 60px #1a1a1a, -20px -20px 60px #151515;
+}
+
+.hero .btn_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 350px;
+  gap: 4rem;
+}
+
+.hero .btn_box button {
+  width: 100%;
+  padding: 10px 0;
+  border-radius: 30px;
+  font-family: Lato;
+  font-weight: bold;
+  border-radius: 79px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 2px 10px;
+}
