@@ -13,7 +13,7 @@ Speech To Text Convter - [Click](https://github.com/therogersak/30-days-of-javas
 
 In this project we build password genrator & copy feature
 
-Speech To Text Convter - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/password_genrator)
+Passwold Genrator - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/password_genrator)
 
 
 
