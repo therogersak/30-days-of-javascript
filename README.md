@@ -16,6 +16,15 @@ In this project we build password genrator & copy feature
 Passwold Genrator - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/password_genrator)
 
 
+### 2. Words & Chars Counter
+
+In this project we build words & chars counter using string methods
+
+Words & Chars Counter - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/words_couner)
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
