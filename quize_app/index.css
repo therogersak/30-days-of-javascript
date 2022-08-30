@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  font-weight: bold;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  width: 100%;
+  max-width: 600px;
+  height: 450px;
+  border-radius: 21px;
+  background: #e0e0e0;
+  box-shadow: 21px 21px 46px #8d8d8d, -21px -21px 46px #ffffff;
+  display: flex;
+  padding: 4rem;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+#submit {
+  border-radius: 21px;
+  background: #e0e0e0;
+  box-shadow: 21px 21px 46px #8d8d8d, -21px -21px 46px #ffffff;
+  border: none;
+  padding: 10px 25px;
+  cursor: pointer;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.quiz-header{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.quiz-header ul li{
+ margin: 20px 0;
+ list-style: none;
+}
