@@ -23,7 +23,7 @@ In this project we build words & chars counter using string methods
 Words & Chars Counter - [Click](https://github.com/therogersak/30-days-of-javascript/tree/main/words_couner)
 
 
-### 3. Quiz App
+### 4. Quiz App
 
 In this project we build Quiz App using Javascript
 
