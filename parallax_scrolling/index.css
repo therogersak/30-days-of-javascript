@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+
+
+.parallax{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: url('https://images.unsplash.com/photo-1655427565427-34ea63c7ede6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=1000&q=60');
+    padding: 25vmin 0;
+  background-size: cover;
+}
